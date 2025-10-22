@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Poenariu_ElenaTeodora_Lab2.Data;
 
@@ -11,9 +12,11 @@ using Poenariu_ElenaTeodora_Lab2.Data;
 namespace Poenariu_ElenaTeodora_Lab2.Migrations
 {
     [DbContext(typeof(Poenariu_ElenaTeodora_Lab2Context))]
-    partial class Poenariu_ElenaTeodora_Lab2ContextModelSnapshot : ModelSnapshot
+    [Migration("20251021090731_BookCategory")]
+    partial class BookCategory
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

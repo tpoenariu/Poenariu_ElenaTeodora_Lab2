@@ -1,4 +1,3 @@
-﻿
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Poenariu_ElenaTeodora_Lab2.Data;
 using Poenariu_ElenaTeodora_Lab2.Models;
 
-namespace Poenariu_ElenaTeodora_Lab2.Pages.Books
+namespace Poenariu_ElenaTeodora_Lab2.Pages.Categories
 {
     public class IndexModel : PageModel
     {
@@ -20,14 +19,11 @@ namespace Poenariu_ElenaTeodora_Lab2.Pages.Books
             _context = context;
         }
 
-        public IList<Book> Book { get;set; } = default!;
+        public IList<Category> Category { get;set; } = default!;
 
         public async Task OnGetAsync()
         {
-            Book = await _context.Book
-                .Include(b => b.Publisher)
-                .Include(b => b.Author)
-                .ToListAsync();
+            Category = await _context.Category.ToListAsync();
         }
     }
 }
