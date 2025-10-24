@@ -22,7 +22,7 @@ namespace Poenariu_ElenaTeodora_Lab2.Pages.Books
         [BindProperty]
         public Book Book { get; set; } = default!;
 
-        public async Task<IActionResult> OnGetAsync(int? id)
+        /*public async Task<IActionResult> OnGetAsync(int? id)
         {
             if (id == null)
             {
@@ -40,7 +40,29 @@ namespace Poenariu_ElenaTeodora_Lab2.Pages.Books
                 Book = book;
             }
             return Page();
-        }
+        }*/
+        public async Task<IActionResult> OnGetAsync(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            Book = await _context.Book
+                .Include(b => b.Author)
+                .Include(b => b.Publisher)
+                .Include(b => b.BookCategories)
+                    .ThenInclude(b => b.Category)
+                .AsNoTracking()
+                .FirstOrDefaultAsync(m => m.ID == id);
+
+            if (Book == null)
+            {
+                return NotFound();
+            }
+            return Page();
+         }
+
 
         public async Task<IActionResult> OnPostAsync(int? id)
         {
