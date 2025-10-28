@@ -11,7 +11,10 @@ namespace Poenariu_ElenaTeodora_Lab2.Models
         [Display(Name = "Author Name")]
         public string FullName
         {
-            get { return FirstName + " " + LastName; }
+            get 
+            {
+                return FirstName + " " + LastName; 
+            }
         }
         public ICollection<Book>? Books { get; set; }
     }
