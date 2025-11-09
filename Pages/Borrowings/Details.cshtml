@@ -2,10 +2,10 @@
 @model Poenariu_ElenaTeodora_Lab2.Pages.Borrowings.DetailsModel
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Borrowing Details";
 }
 
-<h1>Details</h1>
+<h1>Borrowing Details</h1>
 
 <div>
     <h4>Borrowing</h4>
@@ -15,14 +15,23 @@
             @Html.DisplayNameFor(model => model.Borrowing.Member)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Borrowing.Member.ID)
+            @Html.DisplayFor(model => model.Borrowing.Member.FullName)
         </dd>
+
         <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Borrowing.Book)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Borrowing.Book.ID)
+            @Html.DisplayFor(model => model.Borrowing.Book.Title)
         </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Borrowing.Book.Author)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Borrowing.Book.Author.FullName)
+        </dd>
+
         <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Borrowing.ReturnDate)
         </dt>

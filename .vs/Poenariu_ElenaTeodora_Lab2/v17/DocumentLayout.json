@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "D:\\An3\\MdP\\Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\An3\\MdP\\Lab\\obj\\Debug\\net8.0\\Poenariu_ElenaTeodora_Lab2.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Poenariu_ElenaTeodora_Lab2.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\An3\\MdP\\Lab\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\data\\poenariu_elenateodora_lab2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:data\\poenariu_elenateodora_lab2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\poenariu_elenateodora_lab2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:poenariu_elenateodora_lab2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\areas\\identity\\data\\libraryidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:areas\\identity\\data\\libraryidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,107 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Index.cshtml.cs",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Borrowings\\Index.cshtml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Details.cshtml.cs",
+              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Borrowings\\Details.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T05:57:40.272Z",
+              "WhenOpened": "2025-11-09T21:35:40.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Index.cshtml",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Borrowings\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Details.cshtml",
+              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Borrowings\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-01T05:57:34.024Z",
+              "WhenOpened": "2025-11-09T21:35:08.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Create.cshtml.cs",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\Borrowings\\Create.cshtml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Delete.cshtml.cs",
+              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Borrowings\\Delete.cshtml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T05:55:29.969Z",
+              "WhenOpened": "2025-11-09T21:28:20.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Create.cshtml",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Borrowings\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Delete.cshtml",
+              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Borrowings\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-01T05:55:24.782Z",
+              "WhenOpened": "2025-11-09T21:27:30.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Poenariu_ElenaTeodora_Lab2.AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\obj\\Debug\\net8.0\\Poenariu_ElenaTeodora_Lab2.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Poenariu_ElenaTeodora_Lab2.AssemblyInfo.cs",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\obj\\Debug\\net8.0\\Poenariu_ElenaTeodora_Lab2.AssemblyInfo.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\Poenariu_ElenaTeodora_Lab2.AssemblyInfo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA4AAAALAAAAAAAAAA==",
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Edit.cshtml.cs",
+              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Borrowings\\Edit.cshtml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T05:36:24.64Z",
+              "WhenOpened": "2025-11-09T21:26:10.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Edit.cshtml",
+              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Borrowings\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T21:26:06.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Members\\Index.cshtml",
+              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Members\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Members\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T21:04:37.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Poenariu_ElenaTeodora_Lab2",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Poenariu_ElenaTeodora_Lab2.csproj",
-              "RelativeDocumentMoniker": "Poenariu_ElenaTeodora_Lab2.csproj",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Poenariu_ElenaTeodora_Lab2.csproj",
-              "RelativeToolTip": "Poenariu_ElenaTeodora_Lab2.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-01T05:35:54.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Title": "LibraryIdentityContext.cs",
+              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Areas\\Identity\\Data\\LibraryIdentityContext.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\LibraryIdentityContext.cs",
+              "ToolTip": "D:\\An3\\MdP\\Lab\\Areas\\Identity\\Data\\LibraryIdentityContext.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\LibraryIdentityContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T05:34:17.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Poenariu_ElenaTeodora_Lab2Context.cs",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Data\\Poenariu_ElenaTeodora_Lab2Context.cs",
-              "RelativeDocumentMoniker": "Data\\Poenariu_ElenaTeodora_Lab2Context.cs",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Data\\Poenariu_ElenaTeodora_Lab2Context.cs",
-              "RelativeToolTip": "Data\\Poenariu_ElenaTeodora_Lab2Context.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T05:32:28.956Z"
+              "WhenOpened": "2025-11-09T20:54:17.271Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -25,20 +25,20 @@ namespace Poenariu_ElenaTeodora_Lab2.Pages.Borrowings
             var bookList = _context.Book
                 .Include(b => b.Author)
                 .Select(x => new
-            {
-                x.ID,
-                BookFullName = x.Title + " - " + x.Author.LastName + " " + x.Author.FirstName
-            });
+                {
+                    x.ID,
+                    BookFullName = x.Title + " - " + x.Author.LastName + " " + x.Author.FirstName
+                });
 
-        ViewData["BookID"] = new SelectList(bookList, "ID", "BookFullName");
-        ViewData["MemberID"] = new SelectList(_context.Member, "ID", "FullName");
+            ViewData["BookID"] = new SelectList(bookList, "ID", "BookFullName");
+            ViewData["MemberID"] = new SelectList(_context.Member, "ID", "FullName");
+
             return Page();
         }
 
         [BindProperty]
         public Borrowing Borrowing { get; set; } = default!;
 
-        // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
