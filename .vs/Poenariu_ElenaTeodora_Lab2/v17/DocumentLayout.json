@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "D:\\An3\\MdP\\Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\borrowings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\borrowings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\pages\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:pages\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\areas\\identity\\data\\libraryidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:areas\\identity\\data\\libraryidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|d:\\an3\\mdp\\lab\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D25402-8E29-4414-BDEA-61B6C75B1360}|Poenariu_ElenaTeodora_Lab2.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Details.cshtml.cs",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Borrowings\\Details.cshtml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwCsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T21:35:40.833Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T10:08:07.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Details.cshtml",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Borrowings\\Details.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T21:35:08.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Delete.cshtml.cs",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Borrowings\\Delete.cshtml.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\An3\\MdP\\Lab\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA+wGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T21:28:20.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Delete.cshtml",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Borrowings\\Delete.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T21:27:30.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Edit.cshtml.cs",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Borrowings\\Edit.cshtml.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAwFoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T21:26:10.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Borrowings\\Edit.cshtml",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Borrowings\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Borrowings\\Edit.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T21:26:06.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Pages\\Members\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Members\\Index.cshtml",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Pages\\Members\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Members\\Index.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwCoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T21:04:37.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LibraryIdentityContext.cs",
-              "DocumentMoniker": "D:\\An3\\MdP\\Lab\\Areas\\Identity\\Data\\LibraryIdentityContext.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\LibraryIdentityContext.cs",
-              "ToolTip": "D:\\An3\\MdP\\Lab\\Areas\\Identity\\Data\\LibraryIdentityContext.cs",
-              "RelativeToolTip": "Areas\\Identity\\Data\\LibraryIdentityContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T20:54:17.271Z",
+              "WhenOpened": "2025-11-09T21:44:57.74Z",
               "EditorCaption": ""
             }
           ]
